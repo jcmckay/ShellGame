@@ -1,0 +1,4 @@
+namespace ShellGame 
+{
+  class Ball { }
+}

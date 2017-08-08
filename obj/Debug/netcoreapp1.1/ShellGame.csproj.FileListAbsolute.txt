@@ -1,0 +1,8 @@
+/Users/jmckay/src/dotnet/ShellGame/bin/Debug/netcoreapp1.1/ShellGame.deps.json
+/Users/jmckay/src/dotnet/ShellGame/bin/Debug/netcoreapp1.1/ShellGame.runtimeconfig.json
+/Users/jmckay/src/dotnet/ShellGame/bin/Debug/netcoreapp1.1/ShellGame.runtimeconfig.dev.json
+/Users/jmckay/src/dotnet/ShellGame/bin/Debug/netcoreapp1.1/ShellGame.dll
+/Users/jmckay/src/dotnet/ShellGame/bin/Debug/netcoreapp1.1/ShellGame.pdb
+/Users/jmckay/src/dotnet/ShellGame/obj/Debug/netcoreapp1.1/ShellGame.AssemblyInfo.cs
+/Users/jmckay/src/dotnet/ShellGame/obj/Debug/netcoreapp1.1/ShellGame.dll
+/Users/jmckay/src/dotnet/ShellGame/obj/Debug/netcoreapp1.1/ShellGame.pdb
